@@ -1,0 +1,14 @@
+{
+  "name": "surakshini-setu",
+  "version": "1.0.0",
+  "description": "Surakshini Setu - Digital Bodyguard App",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Static site - no dev server'",
+    "build": "echo 'Static site - no build step'",
+    "start": "echo 'Static site - served by Vercel'"
+  },
+  "keywords": ["safety", "emergency", "women", "app"],
+  "author": "Afifa Fatima & Misbah Maheen",
+  "license": "MIT"
+}
